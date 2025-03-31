@@ -5,7 +5,7 @@
 Для использонвания почты можно пройти по ссылке https://mail.company.ru/owa
 - далее ввести учетный данные (такие же как и для входа в компьютер)
   > Пример: domain/user и пароль
-![Outlook]()
+![Outlook](https://github.com/VasilenkoAndrey/test_mts_work/blob/main/Outlook.png?raw=true)
 ---  
 ### Для самостоятельного подключения новой почты в outlook, необходимо выполнить:
 
@@ -31,7 +31,7 @@ ___
 - проходим по ссылке  http://nextcloud.company
 - далее ввести учетный данные (такие же как и для входа в компьютер)
    > Пример: domain/user и пароль
-![nextcloud]()
+![nextcloud](https://github.com/VasilenkoAndrey/test_mts_work/blob/main/nextcloud.png?raw=true)
 
 #Если возникли проблемы, обратитесь в IT-отдел:
 
