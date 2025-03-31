@@ -33,9 +33,9 @@ ___
    > Пример: domain/user и пароль
 ![nextcloud](https://github.com/VasilenkoAndrey/test_mts_work/blob/main/nextcloud.png?raw=true)
 
-#Если возникли проблемы, обратитесь в IT-отдел:
+# Если возникли проблемы, обратитесь в IT-отдел:
 
-#Телефон: __+7(--)------__
+# Телефон: __+7(--)------__
 
-#Email: __support@company.ru__
+# Email: __support@company.ru__
 
